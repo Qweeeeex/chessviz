@@ -19,8 +19,7 @@ struct Figura
 };
  
 void doska_print() 
-{
-    system("cls"); 
+{ 
     char num = 'a'; 
     cout << "\n\n";
     for (int i = 0; i < 8; i++)
