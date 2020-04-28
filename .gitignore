@@ -2,3 +2,6 @@
 MakeFile~
 *.c~
 main
+*.o
+*.exe
+*.d
